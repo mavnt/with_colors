@@ -2,6 +2,8 @@
 
 Wrapper for python module [colorama](https://github.com/tartley/colorama).
 
+[![asciicast](https://asciinema.org/a/5UD39ksCY5F8WaxCi05uby19u.svg)](https://asciinema.org/a/5UD39ksCY5F8WaxCi05uby19u)
+
 with `colorama`:
 
 ```python
